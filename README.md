@@ -12,10 +12,10 @@
 ---
 
 ## 🌟 Project Overview | 项目概述
--This project serves as a **personal deep learning playground** while practicing technical English documentation.  
--本项目是个人深度学习实验场，同时用于技术英语文档实践。
--The learning process and detailed notes of the book "Dive into Deep Learning" based on PyTorch, without using the d2l library to avoid version issues caused by it.
--基于PyTorch的动手学深度学习一书的详细笔记，不使用d2l库，以避免它造成的版本问题。
+- This project serves as a **personal deep learning playground** while practicing technical English documentation.  
+- 本项目是个人深度学习实验场，同时用于技术英语文档实践。
+- The learning process 和 detailed notes of the book "Dive into Deep Learning" based on PyTorch, without using the d2l library to avoid version issues caused by it.
+- 基于PyTorch的动手学深度学习一书的详细笔记，不使用d2l库，以避免它造成的版本问题。
 
 
 **Key Features | 核心特点**  
