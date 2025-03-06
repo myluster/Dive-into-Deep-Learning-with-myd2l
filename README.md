@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Project Name | 项目名称  
-**Dive into Deep Learning without d2l | 不基于d2l的动手学深度学习**  
+# 🚀 项目名称  
+**基于myd2l的动手学深度学习**  
 
 [![PyTorch Version](https://img.shields.io/badge/PyTorch-2.1.0+-red.svg)](https://pytorch.org/)
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
@@ -11,14 +11,13 @@
 
 ---
 
-## 🌟 Project Overview | 项目概述
-- The learning process 和 detailed notes of the book "Dive into Deep Learning" based on PyTorch, without using the d2l library to avoid version issues caused by it.
-- 基于PyTorch的动手学深度学习一书的详细笔记，不使用d2l库，以避免它造成的版本问题。
+## 🌟 项目概述
+- 基于PyTorch的动手学深度学习一书的详细笔记，不使用d2l库，而创建自己的myd2l库以避免版本问题。
 
 
 **Key Features | 核心特点**  
-⚡ GPU-accelerated experiments GPU加速实验  
-📚 Progressive learning roadmap 渐进式学习路线  
+⚡ GPU加速实验  
+📚 渐进式学习路线  
 
 ---
 
